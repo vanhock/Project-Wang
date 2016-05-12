@@ -1,3 +1,2 @@
-# oleg
-Gamble game for vk
-dsfdsf
+# Oleg
+Gamble game for vk, api testing.
