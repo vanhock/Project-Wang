@@ -38,4 +38,3 @@ app.use("/", express.static(path.join(__dirname, 'public')));
 
 // start server
 app.listen(config.port);
-logger.info(`Oleg is running on port ${config.port}`);

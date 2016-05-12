@@ -1,7 +1,6 @@
 @echo off
 color E
 cls
-echo Alice app starts
 echo Pull from repository
 git pull
 
