@@ -26,6 +26,11 @@ body,html
   display: none
 }
 
+.main .menu .label
+{
+  margin: 20px 0 0 -7.2em!important;
+}
+
 .wang-list
 {
   /* text-align: center */
@@ -71,7 +76,7 @@ body,html
 
 .energy-fill
 {
-  margin: 23px 0 44px;
+  margin: 23px 0 0;
 }
 
 .wang-sidebar .progress .label
