@@ -20,33 +20,71 @@ body,html
   margin: 10px auto 0 auto !important;
 }
 
-.oleg-list
+.main .ad
 {
-  text-align: center
+  float: right;
+  display: none
 }
 
-.oleg-list h1
+.wang-list
+{
+  /* text-align: center */
+}
+
+.wang-list h1
 {
   padding: 20px 0 10px 0 !important;
 }
 
-.oleg-list .cards
+.wang-list .cards
 {
 
 }
 
-.oleg-list h2
+.wang-list h2
 {
-  margin: 25px 0 43px 0;color: #F2711C;
+  margin: 25px 0 43px 0;
+  color: #00A39C;
 }
 
-.oleg-list .message
+.wang-list .message
 {
   margin: 25px 0 0 0;
   font-size: 20px;
 }
 
-.oleg-sidebar
+.wang-sidebar
+{
+  padding: 0 !important;
+}
+
+.wang-sidebar .divider
+{
+  margin: 25px 0 16px 0;
+  color: rgba(49, 44, 44, 0.59);
+}
+
+.wang-sidebar .progress
 {
 
+}
+
+.energy-fill
+{
+  margin: 23px 0 44px;
+}
+
+.wang-sidebar .progress .label
+{
+  color: #A333C8 !important;
+  font-weight: normal !important;
+  margin: 7px 0 0px 0;
+  display: block;
+}
+
+
+.exit-button
+{
+  font-size: 20px;
+  cursor: pointer
 }
